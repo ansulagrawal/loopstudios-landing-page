@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<img src="https://github.com/ansulagrawal/loopstudios-landing-page/blob/master/output/output.png?raw=true"></img>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center">Loopstudios Landing Page Component</h1>
 
-In the project directory, you can run:
+<div align="center">
+  <h3>
+    <a href="https://ansulagrawal.github.io/loopstudios-landing-page/" color="white">
+      Live
+    </a>
+    <span> | </span>
+    <a href="https://www.frontendmentor.io/solutions/react-scss-iHZ_Bq6k0n">
+      Solution
+    </a>
+   <span> | </span>
+    <a href="https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw">
+      Challenge
+    </a>
+  </h3>
+</div>
+<div align="center">
+   Solution for a challenge from  <a href="https://www.frontendmentor.io/" target="_blank">frontendmentor.io</a>.
+</div>
+<br>
+<br>
+<br>
 
-### `npm start`
+## About The Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>If you're new to React this is a great first challenge. Because the card layout does not change, it is ideal if you have not yet learned how to create responsive layouts.
+The main challenge is to build out this cards and top header to and make it look as close to the design as possible.
+You can use whatever tools you want to help you complete the challenge. So, if you want to practise something, go ahead.
+<br><br>Your users should be able to:
+<br>1. View the optimal layout depending on their device's screen size
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
+<br> <p>I do not have access to the Figma sketch so the design is not pixel perfect.</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built with 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Semantic HTML5 markup
+- React
+- SCSS/SASS
+- Flexbox
+- Desktop-first workflow
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What I learned
+Quite simple project for someone new to development! I have fun to work with flexbox for this page and a hover effect for the cards.
+## Useful resources
 
-### `npm run eject`
+1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
+2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Acknowledgments
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you to everyone who provided feedback on my <a href="https://www.frontendmentor.io/solutions/react-scss-iHZ_Bq6k0n"> solution</a>.  Finding new ways to code and simpler solutions is definitely beneficial!
